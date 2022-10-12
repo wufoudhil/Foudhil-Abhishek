@@ -1,0 +1,22 @@
+
+html{
+    margin: 15px;
+}
+body{
+    /*background-color: darkgray;*/
+}
+#main{
+    background-color: lightgray;
+    border-radius: 8px;
+    padding: 10px;
+}
+#img-div{
+    text-align: center;
+    background-color: white;
+    padding: 15px;
+}
+#image{
+    max-width: 600px;
+    max-height: 300px;
+    position: relative;
+}
